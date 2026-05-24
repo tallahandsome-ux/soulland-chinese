@@ -1,4 +1,4 @@
-# 斗罗大陆 Soul Land Mod 中文汉化补丁
+# Soul Land Mod 中文汉化补丁（我的世界 Java 版）
 
 > Minecraft Forge 1.20.1 · soulland-1.0.0.jar
 
@@ -79,3 +79,5 @@ python3 soulland_translate.py soulland-1.0.0.jar
 ---
 
 *翻译工具制作：许清禾 🥰 · 2026-05-24*
+
+*适用平台：Minecraft Java Edition (Forge 1.20.1)*
