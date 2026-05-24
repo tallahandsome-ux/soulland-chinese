@@ -71,7 +71,7 @@ python3 soulland_translate.py soulland-1.0.0.jar
 ## 声明
 
 - 本项目**不包含也不分发原 mod 文件**，用户需自行下载
-- 翻译内容基于斗罗大陆小说术语
+- 翻译内容基于Soul Land 原作术语
 - Soul Land Mod 原著作权归 SoulLand Dev Team / DDY_SYN 所有
 - 原作许可证：All Rights Reserved
 - 如原作者有异议，请联系删除

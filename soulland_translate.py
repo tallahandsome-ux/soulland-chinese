@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-斗罗大陆 Soul Land Mod 一键汉化脚本 (Minecraft Forge 1.20.1)
+Soul Land Mod 一键汉化脚本 (Minecraft Forge 1.20.1)
 
 用法:
   python3 soulland_translate.py <soulland-1.0.0.jar>
@@ -132,7 +132,7 @@ ZH_CN = {
 # --- Advancement translations (41 files) ---
 ADVANCEMENTS = {
     # Root
-    "soulland:root": {"title": "斗罗大陆", "description": "踏入斗罗世界"},
+    "soulland:root": {"title": "Soul Land", "description": "踏入斗罗世界"},
     # Cultivation milestones
     "soulland:cultivation/spirit_awakening": {"title": "武魂觉醒", "description": "觉醒你的武魂"},
     "soulland:cultivation/first_ring": {"title": "第一魂环", "description": "吸收你的第一枚魂环"},
@@ -297,7 +297,7 @@ def main():
     if len(sys.argv) < 2:
         print("用法: python3 soulland_translate.py <soulland-1.0.0.jar>")
         print()
-        print("斗罗大陆 Soul Land Mod 一键汉化脚本")
+        print("Soul Land Mod 一键汉化脚本")
         print("  - 自动备份为 .bak")
         print("  - 注入 zh_cn.json 语言文件")
         print("  - 翻译 advancement 成就文件")
@@ -312,7 +312,7 @@ def main():
     bak_path = jar_path + '.bak'
     
     print("=" * 60)
-    print("斗罗大陆 Soul Land Mod — 一键汉化")
+    print("Soul Land Mod — 一键汉化")
     print("=" * 60)
     
     # Step 1: 备份
