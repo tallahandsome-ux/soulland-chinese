@@ -1,0 +1,7 @@
+*.jar
+*.bak
+*.bak2
+*.bak3
+__pycache__/
+*.pyc
+.DS_Store
